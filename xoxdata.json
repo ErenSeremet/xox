@@ -2,7 +2,7 @@
   "board": [
     [
       null,
-      null,
+      "X",
       "O"
     ],
     [
@@ -13,9 +13,9 @@
     [
       null,
       "X",
-      null
+      "O"
     ]
   ],
-  "currentPlayer": "O",
-  "status": "ongoing"
+  "currentPlayer": "X",
+  "status": "won"
 }
