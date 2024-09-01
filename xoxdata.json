@@ -3,19 +3,19 @@
     [
       null,
       null,
-      null
-    ],
-    [
-      null,
-      "X",
-      null
+      "X"
     ],
     [
       null,
       null,
-      "O"
+      null
+    ],
+    [
+      null,
+      null,
+      null
     ]
   ],
-  "currentPlayer": "X",
+  "currentPlayer": "O",
   "status": "ongoing"
 }
