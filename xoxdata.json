@@ -2,12 +2,12 @@
   "board": [
     [
       null,
-      "X",
-      "O"
+      null,
+      null
     ],
     [
       null,
-      null,
+      "X",
       null
     ],
     [
@@ -16,6 +16,6 @@
       null
     ]
   ],
-  "currentPlayer": "X",
+  "currentPlayer": "O",
   "status": "ongoing"
 }
