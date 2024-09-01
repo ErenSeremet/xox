@@ -1,14 +1,14 @@
 {
   "board": [
     [
-      "X",
       null,
-      "X"
+      "X",
+      null
     ],
     [
       null,
       null,
-      "O"
+      null
     ],
     [
       null,
