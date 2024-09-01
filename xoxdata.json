@@ -8,12 +8,12 @@
     [
       null,
       null,
-      "X"
+      null
     ],
     [
       null,
       "X",
-      "O"
+      null
     ]
   ],
   "currentPlayer": "O",
