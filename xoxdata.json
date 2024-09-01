@@ -6,7 +6,7 @@
       null
     ],
     [
-      null,
+      "X",
       null,
       null
     ],
@@ -16,6 +16,6 @@
       null
     ]
   ],
-  "currentPlayer": "X",
+  "currentPlayer": "O",
   "status": "ongoing"
 }
