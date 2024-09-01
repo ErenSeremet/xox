@@ -1,3 +1,9 @@
 {
-  "letter": "B"
+  "board": [
+    ["", "", ""],
+    ["", "", ""],
+    ["", "", ""]
+  ],
+  "currentPlayer": "X",
+  "status": "ongoing" // or "won", "tie"
 }
